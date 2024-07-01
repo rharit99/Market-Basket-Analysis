@@ -13,9 +13,7 @@ This project applies association rule mining using the Apriori algorithm to iden
 
 To run this project, you need to install the following library:
 
-```bash
 pip install apyori
-
 
 ## Usage
 
