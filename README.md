@@ -19,6 +19,7 @@ pip install apyori
 
 1. **Load the necessary libraries:**
     - Import pandas and the Apriori algorithm from the apyori library.
+      
 
 2. **Load the datasets:**
     - Load `products.csv`, `order_products__train.csv`, and `orders.csv`.
