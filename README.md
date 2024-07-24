@@ -7,6 +7,7 @@ This project uses association rule mining with the Apriori algorithm to identify
 
 ## Project Description
 
+
 This project applies association rule mining using the Apriori algorithm to identify frequent itemsets and generate association rules from a retail dataset. The insights gained can help in dynamic pricing, enhancing customer shopping experiences, and targeting marketing campaigns.
 
 ## Installation
